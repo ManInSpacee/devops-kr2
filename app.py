@@ -1,3 +1,4 @@
+# KR2: Martynenko
 import os
 import socket
 
